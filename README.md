@@ -2,10 +2,6 @@
 
 A simple, standalone desktop application for managing books, members, and transactions in a small library, built with Java and the Swing GUI toolkit.
 
-*(**Note:** Replace the line above with an actual screenshot of your application after you upload it to the repository.)*
-
----
-
 ## ✨ Features
 
 * 📚 **Book Management:** Add new books with a unique ID, title, and author. View all books and their current status (Available/Issued) in a clear table.
